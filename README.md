@@ -1,4 +1,4 @@
-# moqt-supurazako
+# moq-supurazako
 
 An educational implementation of Media over QUIC Transport (MOQT) in Rust.
 
